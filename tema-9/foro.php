@@ -56,6 +56,8 @@
     <td>Autor</td>
     <td>Fecha</td>
     <td>Respuestas</td>
+    <td>Columna1</td>
+    <td>Columna2</td>
     </tr>
     <?php
       if(@$_POST['buscar']) {

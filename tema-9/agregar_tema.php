@@ -23,6 +23,17 @@
           <td><label for="auto">Autor:</label></td>
           <td><input type="text" name="autor" id="autor" ></td>
         </tr>
+
+        <tr>
+          <td><label for="auto">Fila1:</label></td>
+          <td><input type="text" name="autor" id="autor" ></td>
+        </tr>
+
+        <tr>
+          <td><label for="auto">Fila2:</label></td>
+          <td><input type="text" name="autor" id="autor" ></td>
+        </tr>
+
         <tr>
           <td colspan="2" class="td-center"><input type="submit" name="button" id="button" value="Enviar"></td>
         </tr>
